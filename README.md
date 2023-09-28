@@ -25,6 +25,8 @@ A solução proposta é a utilização de um modelo de aprendizado contínuo, ou
 
 ## Conclusão
 
+A partir do que foi citado, podemos concluir que o aprendizado contínuo é uma técnica que pode ser utilizada para melhorar o desempenho de modelos de linguagem, pois permite que o modelo aprenda e se aprimore com o tempo. O esforço para implementar a solução é grande em um projeto que não foi pensado para isso, mas depois de implementado, o modelo pode ser utilizado e reaproveitado para várias finalidades. 
+
 ## Referências Bibliográficas
 
 1. JANG, Joel et al. Towards continual knowledge learning of language models. arXiv preprint arXiv:2110.03215, 2021.
